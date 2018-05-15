@@ -5,3 +5,7 @@ list of commands to REMEMBER
 ```bash
 adb shell input keyevent KEYCODE_MENU
 ```
+# reload app from terminal
+```bash
+adb shell input text "RR"
+```
