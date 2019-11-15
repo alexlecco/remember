@@ -19,3 +19,28 @@ setxkbmap -layout "es"
 ```bash
 sudo service lightdm restart
 ```
+
+# yarn equivalent to npm commands
+|npm   |yarn   |
+|---|---|
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
+|   |   |
