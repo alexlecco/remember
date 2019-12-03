@@ -39,4 +39,7 @@ sudo service lightdm restart
 |npm version minor   |yarn version --minor   |
 |npm version patch   |yarn version --patch   |
 
+# fetch PR branch
+git fetch upstream pull/37/head:pr37
+
 #
