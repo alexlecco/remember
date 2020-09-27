@@ -42,4 +42,10 @@ sudo service lightdm restart
 # fetch PR branch
 git fetch upstream pull/37/head:pr37
 
-#
+# #HTML #REACT
+set a remote image as favicon
+
+```
+<link rel="shortcut icon" type="image/png" href="Link to the image"/>
+```
+
